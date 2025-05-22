@@ -57,4 +57,4 @@ The audio will play while it is being transcribed. Once complete, the transcript
 
 👤 Author | Autor
 
-Created by [Estefania Rosas] in 2025.
+Created by Estefania Rosas
