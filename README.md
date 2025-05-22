@@ -1,4 +1,4 @@
-Azure Speech Demo (Bilingual README)
+Azure Speech Demo (Bilingual)
 
 🎤 Overview | Descripción
 
